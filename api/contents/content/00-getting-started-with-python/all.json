@@ -1,0 +1,85 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2021-08-25T10:08:22.750124Z",
+      "format": null,
+      "last_modified": "2021-08-25T10:07:17.461691Z",
+      "mimetype": "image/png",
+      "name": "tiobeIndex.png",
+      "path": "content/00-getting-started-with-python/tiobeIndex.png",
+      "size": 445480,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-08-25T10:08:22.746124Z",
+      "format": null,
+      "last_modified": "2021-08-25T10:07:17.457691Z",
+      "mimetype": "image/png",
+      "name": "stackOverflowTrends.png",
+      "path": "content/00-getting-started-with-python/stackOverflowTrends.png",
+      "size": 501385,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-08-25T10:08:22.746124Z",
+      "format": null,
+      "last_modified": "2021-08-25T10:07:17.453691Z",
+      "mimetype": "image/png",
+      "name": "kaggle.png",
+      "path": "content/00-getting-started-with-python/kaggle.png",
+      "size": 123639,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-08-25T10:08:22.742124Z",
+      "format": null,
+      "last_modified": "2021-08-25T10:07:17.453691Z",
+      "mimetype": "image/png",
+      "name": "jupyterLite.png",
+      "path": "content/00-getting-started-with-python/jupyterLite.png",
+      "size": 187016,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-08-25T10:08:22.742124Z",
+      "format": null,
+      "last_modified": "2021-08-25T10:07:17.453691Z",
+      "mimetype": "image/png",
+      "name": "ieee.png",
+      "path": "content/00-getting-started-with-python/ieee.png",
+      "size": 388392,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-08-25T10:08:22.746124Z",
+      "format": null,
+      "last_modified": "2021-08-25T10:07:17.457691Z",
+      "mimetype": null,
+      "name": "notebook.ipynb",
+      "path": "content/00-getting-started-with-python/notebook.ipynb",
+      "size": 8686,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2021-08-25T10:08:22.750124Z",
+  "format": "json",
+  "last_modified": "2021-08-25T10:08:22.750124Z",
+  "mimetype": null,
+  "name": "00-getting-started-with-python",
+  "path": "content/00-getting-started-with-python",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
