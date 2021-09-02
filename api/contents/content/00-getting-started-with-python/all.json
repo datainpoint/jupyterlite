@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2021-09-02T12:42:03.751410Z",
+      "created": "2021-09-02T13:20:30.545455Z",
       "format": null,
-      "last_modified": "2021-09-02T12:41:03.190682Z",
+      "last_modified": "2021-09-02T13:19:28.861830Z",
       "mimetype": "image/png",
       "name": "kaggle.png",
       "path": "content/00-getting-started-with-python/kaggle.png",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2021-09-02T12:42:03.751410Z",
+      "created": "2021-09-02T13:20:30.545455Z",
       "format": null,
-      "last_modified": "2021-09-02T12:41:03.190682Z",
+      "last_modified": "2021-09-02T13:19:28.857830Z",
       "mimetype": "image/png",
       "name": "jupyterLite.png",
       "path": "content/00-getting-started-with-python/jupyterLite.png",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2021-09-02T12:42:03.751410Z",
+      "created": "2021-09-02T13:20:30.549455Z",
       "format": null,
-      "last_modified": "2021-09-02T12:41:03.194682Z",
+      "last_modified": "2021-09-02T13:19:28.865830Z",
       "mimetype": "image/png",
       "name": "stackOverflowTrends.png",
       "path": "content/00-getting-started-with-python/stackOverflowTrends.png",
@@ -38,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2021-09-02T12:42:03.751410Z",
+      "created": "2021-09-02T13:20:30.549455Z",
       "format": null,
-      "last_modified": "2021-09-02T12:41:03.190682Z",
+      "last_modified": "2021-09-02T13:19:28.861830Z",
       "mimetype": null,
       "name": "notebook.ipynb",
       "path": "content/00-getting-started-with-python/notebook.ipynb",
@@ -50,9 +50,9 @@
     },
     {
       "content": null,
-      "created": "2021-09-02T12:42:03.755410Z",
+      "created": "2021-09-02T13:20:30.549455Z",
       "format": null,
-      "last_modified": "2021-09-02T12:41:03.194682Z",
+      "last_modified": "2021-09-02T13:19:28.865830Z",
       "mimetype": "image/png",
       "name": "tiobeIndex.png",
       "path": "content/00-getting-started-with-python/tiobeIndex.png",
@@ -62,9 +62,9 @@
     },
     {
       "content": null,
-      "created": "2021-09-02T12:42:03.747410Z",
+      "created": "2021-09-02T13:20:30.545455Z",
       "format": null,
-      "last_modified": "2021-09-02T12:41:03.190682Z",
+      "last_modified": "2021-09-02T13:19:28.857830Z",
       "mimetype": "image/png",
       "name": "ieee.png",
       "path": "content/00-getting-started-with-python/ieee.png",
@@ -73,9 +73,9 @@
       "writable": true
     }
   ],
-  "created": "2021-09-02T12:42:03.755410Z",
+  "created": "2021-09-02T13:20:30.549455Z",
   "format": "json",
-  "last_modified": "2021-09-02T12:42:03.755410Z",
+  "last_modified": "2021-09-02T13:20:30.549455Z",
   "mimetype": null,
   "name": "00-getting-started-with-python",
   "path": "content/00-getting-started-with-python",

@@ -2,20 +2,20 @@
   "content": [
     {
       "content": null,
-      "created": "2021-09-02T12:42:03.755410Z",
+      "created": "2021-09-02T13:20:30.553456Z",
       "format": null,
-      "last_modified": "2021-09-02T12:41:03.198682Z",
+      "last_modified": "2021-09-02T13:19:28.865830Z",
       "mimetype": null,
       "name": "notebook.ipynb",
       "path": "content/01-using-functions-in-python/notebook.ipynb",
-      "size": 21546,
+      "size": 21523,
       "type": "notebook",
       "writable": true
     }
   ],
-  "created": "2021-09-02T12:42:03.755410Z",
+  "created": "2021-09-02T13:20:30.553456Z",
   "format": "json",
-  "last_modified": "2021-09-02T12:42:03.755410Z",
+  "last_modified": "2021-09-02T13:20:30.553456Z",
   "mimetype": null,
   "name": "01-using-functions-in-python",
   "path": "content/01-using-functions-in-python",
