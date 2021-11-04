@@ -7,8 +7,8 @@
       "last_modified": "2021-11-04T06:21:51.143646Z",
       "mimetype": null,
       "name": "notebook.ipynb",
-      "path": "content/01-using-functions-in-python/notebook.ipynb",
-      "size": 21523,
+      "path": "content/03-data-structures-in-python/notebook.ipynb",
+      "size": 21455,
       "type": "notebook",
       "writable": true
     }
@@ -17,8 +17,8 @@
   "format": "json",
   "last_modified": "2021-11-04T06:23:05.875649Z",
   "mimetype": null,
-  "name": "01-using-functions-in-python",
-  "path": "content/01-using-functions-in-python",
+  "name": "03-data-structures-in-python",
+  "path": "content/03-data-structures-in-python",
   "size": null,
   "type": "directory",
   "writable": true

@@ -6,7 +6,7 @@
     "federated_extensions": [
       {
         "extension": "./extension",
-        "load": "static/remoteEntry.636f4a9dd32e899d40bb.js",
+        "load": "static/remoteEntry.f6574b55a223d23e7a04.js",
         "name": "@jupyter-widgets/jupyterlab-manager"
       },
       {
@@ -33,12 +33,12 @@
       },
       {
         "extension": "./extension",
-        "load": "static/remoteEntry.e9a229a6deef8e3c895b.js",
+        "load": "static/remoteEntry.490fbd2bdf754b661d13.js",
         "name": "bqplot"
       },
       {
         "extension": "./extension",
-        "load": "static/remoteEntry.5459894d80c1201f22ae.js",
+        "load": "static/remoteEntry.51b89f201a0af1cc6ef5.js",
         "name": "ipycanvas"
       },
       {
